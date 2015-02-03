@@ -1,0 +1,7 @@
+"post-processors": [
+  {
+    "type": "vagrant",
+    "keep_input_artifact": false,
+    "output": "{{.Provider}}_windows-2012r2_chef-11.12.4.box"
+  }
+]
